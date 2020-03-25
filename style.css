@@ -40,21 +40,21 @@
   /* Style the content */
   .content-galery {
     background-image: url(background.jpg);
-    height: 4000px;
+    height: 3800px;
     display: flex;
     flex-direction: column;
     align-items: center; /* Should be removed. Only for demonstration */
   }
   .content-home {
     background-image: url(background.jpg);
-    height: 1750px;
+    height: 1650px;
     display: flex;
     flex-direction: column;
     align-items: center; /* Should be removed. Only for demonstration */
   }
   .content-interest {
     background-image: url(background.jpg);
-    height: 3250px;
+    height: 3150px;
     display: flex;
     flex-direction: column;
     align-items: center; /* Should be removed. Only for demonstration */
@@ -68,7 +68,7 @@
   }
   .content-project {
     background-image: url(background.jpg);
-    height: 3850px;
+    height: 3650px;
     display: flex;
     flex-direction: column;
     align-items: center; /* Should be removed. Only for demonstration */
