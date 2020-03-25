@@ -255,3 +255,19 @@ img{
   background-color: black;
   padding: 78px;
 }
+
+@media only screen and (max-width: 600px) {
+
+  .topnav {
+    overflow: hidden;
+    background-color: white;
+    display: flex;
+    justify-content:flex-end;
+    height: 40px;
+    margin-right: 40px;
+    display: block;
+    
+    
+  }
+
+}
