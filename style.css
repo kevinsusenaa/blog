@@ -265,16 +265,10 @@ img{
     justify-content:flex-end;
     height: 40px;
     margin-right: 40px;
-    display: block;
+    display: none;
     
     
   }
-  .content-home {
-    background-image: url(background.jpg);
-    height: 2550px;
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Should be removed. Only for demonstration */
-  }
+ 
 
 }
